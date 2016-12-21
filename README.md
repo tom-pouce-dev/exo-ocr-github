@@ -17,3 +17,11 @@
 8. `git remote -v`
 
 9.  `git push origin master`
+
+Lorsqu'on effectue une modification en étant sur la branche master : 
+
+1. `git add .` après les modifications
+
+2. `git commit -m "nomducommit"`
+
+3. `git push origin master`
