@@ -1,4 +1,4 @@
-# Étapes pour la création d'un repository
+# Étapes pour la création d'un -texte test- repository
 
 1. Sur la page github, créer un nouveau repository en cliquant sur l'onglet + sans initialiser de fichier readme et autres.
 
